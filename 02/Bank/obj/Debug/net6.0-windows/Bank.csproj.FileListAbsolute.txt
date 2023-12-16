@@ -1,0 +1,17 @@
+D:\University\3\.Net\homework\02\Bank\bin\Debug\net6.0-windows\Bank.exe
+D:\University\3\.Net\homework\02\Bank\bin\Debug\net6.0-windows\Bank.deps.json
+D:\University\3\.Net\homework\02\Bank\bin\Debug\net6.0-windows\Bank.runtimeconfig.json
+D:\University\3\.Net\homework\02\Bank\bin\Debug\net6.0-windows\Bank.dll
+D:\University\3\.Net\homework\02\Bank\bin\Debug\net6.0-windows\Bank.pdb
+D:\University\3\.Net\homework\02\Bank\obj\Debug\net6.0-windows\Bank.Form1.resources
+D:\University\3\.Net\homework\02\Bank\obj\Debug\net6.0-windows\Bank.csproj.GenerateResource.cache
+D:\University\3\.Net\homework\02\Bank\obj\Debug\net6.0-windows\Bank.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\3\.Net\homework\02\Bank\obj\Debug\net6.0-windows\Bank.AssemblyInfoInputs.cache
+D:\University\3\.Net\homework\02\Bank\obj\Debug\net6.0-windows\Bank.AssemblyInfo.cs
+D:\University\3\.Net\homework\02\Bank\obj\Debug\net6.0-windows\Bank.csproj.CoreCompileInputs.cache
+D:\University\3\.Net\homework\02\Bank\obj\Debug\net6.0-windows\Bank.sourcelink.json
+D:\University\3\.Net\homework\02\Bank\obj\Debug\net6.0-windows\Bank.dll
+D:\University\3\.Net\homework\02\Bank\obj\Debug\net6.0-windows\refint\Bank.dll
+D:\University\3\.Net\homework\02\Bank\obj\Debug\net6.0-windows\Bank.pdb
+D:\University\3\.Net\homework\02\Bank\obj\Debug\net6.0-windows\Bank.genruntimeconfig.cache
+D:\University\3\.Net\homework\02\Bank\obj\Debug\net6.0-windows\ref\Bank.dll

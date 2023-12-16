@@ -1,0 +1,17 @@
+D:\University\3\.Net\homework\05\bin\Debug\net8.0-windows\05.exe
+D:\University\3\.Net\homework\05\bin\Debug\net8.0-windows\05.deps.json
+D:\University\3\.Net\homework\05\bin\Debug\net8.0-windows\05.runtimeconfig.json
+D:\University\3\.Net\homework\05\bin\Debug\net8.0-windows\05.dll
+D:\University\3\.Net\homework\05\bin\Debug\net8.0-windows\05.pdb
+D:\University\3\.Net\homework\05\obj\Debug\net8.0-windows\_05.Form1.resources
+D:\University\3\.Net\homework\05\obj\Debug\net8.0-windows\05.csproj.GenerateResource.cache
+D:\University\3\.Net\homework\05\obj\Debug\net8.0-windows\05.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\3\.Net\homework\05\obj\Debug\net8.0-windows\05.AssemblyInfoInputs.cache
+D:\University\3\.Net\homework\05\obj\Debug\net8.0-windows\05.AssemblyInfo.cs
+D:\University\3\.Net\homework\05\obj\Debug\net8.0-windows\05.csproj.CoreCompileInputs.cache
+D:\University\3\.Net\homework\05\obj\Debug\net8.0-windows\05.sourcelink.json
+D:\University\3\.Net\homework\05\obj\Debug\net8.0-windows\05.dll
+D:\University\3\.Net\homework\05\obj\Debug\net8.0-windows\refint\05.dll
+D:\University\3\.Net\homework\05\obj\Debug\net8.0-windows\05.pdb
+D:\University\3\.Net\homework\05\obj\Debug\net8.0-windows\05.genruntimeconfig.cache
+D:\University\3\.Net\homework\05\obj\Debug\net8.0-windows\ref\05.dll
