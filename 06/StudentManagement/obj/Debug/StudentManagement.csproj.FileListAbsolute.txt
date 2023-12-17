@@ -1,0 +1,5 @@
+D:\University\3\.Net\homework\06\StudentManagement\obj\Debug\StudentManagement.csproj.AssemblyReference.cache
+D:\University\3\.Net\homework\06\StudentManagement\obj\Debug\StudentManagement.Form1.resources
+D:\University\3\.Net\homework\06\StudentManagement\obj\Debug\StudentManagement.Properties.Resources.resources
+D:\University\3\.Net\homework\06\StudentManagement\obj\Debug\StudentManagement.csproj.GenerateResource.cache
+D:\University\3\.Net\homework\06\StudentManagement\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
